@@ -1594,6 +1594,10 @@
 			transition: none !important;
 		}
 
+		#stream-body {
+			background-color: rgb(33, 32, 33);
+		}
+
 /* Type */
 
 	body {
